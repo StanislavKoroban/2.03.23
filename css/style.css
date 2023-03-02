@@ -1,0 +1,64 @@
+.logo-header {
+    font-family: Raleway;
+    font-size: normal;
+    color: blue;
+    margin: 0%;
+}
+
+.logo-black {
+    font-family: Raleway;
+    font-size: normal;
+    color: black;
+    margin: 0%;
+}
+
+.header-studio {
+    font-family: Roboto;
+    position: absolute;
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+}
+
+.studio{
+    font-family: Roboto;
+    margin: 0%;
+    color: blue;
+}
+
+.email{
+    color: blue;
+    font-family: Roboto;
+    font-size: normal;
+}
+.tel{
+    color: #757575;
+    font-family: Roboto;
+}
+
+li{
+    list-style-type: none;
+}
+
+.section-hero{
+    font-family: Roboto;
+    color: gray;
+    margin: 0%;
+    font-size: normal;
+    text-align: center;
+    font-family: 'Roboto';
+    background-color: 
+    #2F303A;
+
+}
+
+.button{
+    width: 216px;
+    height: 50px;
+    left: 692px;
+    top: 430px;
+    background-color: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
